@@ -6,7 +6,7 @@ The objective of this project is to develop a Python application that allows use
 
 <p align="center">
   <img 
-    src = "https://www.dropbox.com/scl/fi/57aikcm8q2qqowugomrx6/1713265055742.jpg?" width="1200" height="500"/>
+    src = "https://www.dropbox.com/scl/fi/57aikcm8q2qqowugomrx6/1713265055742.jpg?raw=1" width="1200" height="500"/>
 </p>
 
 # User Interface
